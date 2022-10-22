@@ -12,3 +12,6 @@ PORT=8000 - Порт, на котором будет запущен FastApi
 ```sh
 bash ./tools/run_fastapi sh
 ```
+Если FastApi запущен по адресу http://localhost:8000/
+
+То для просмотра документации необходимо обратиться по адресу http://localhost:8000/docs
